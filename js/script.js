@@ -15,3 +15,4 @@ function reset(){
 }
 
 //Challenge 2: Cat Generator
+console.log("Hakuna curfew")
